@@ -1,0 +1,32 @@
+.amarillo{
+	background: yellow;
+	margin: 10px 10px 10px 10px;
+	width: 100px;
+	height: 20px;
+	display: inline-block;
+    padding: 10px;
+    text-align: center;
+	
+	
+}
+.rojo{
+	background: red;
+	margin: 10px 10px;
+	width: 50px;
+	padding: 10px;
+	display: inline-block;
+	text-align: center;
+	height: 20px;
+    
+}
+.color{
+	background: yellow;
+	margin: 10px 10px;
+	width: 180px;
+	height: 20px;
+	display: inline-block;
+	text-align: center;
+	
+	
+
+}
